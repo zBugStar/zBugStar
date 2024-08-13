@@ -1,1 +1,1 @@
-That's not the shape of my heart.
+Python video game developer, Frontend learner.
